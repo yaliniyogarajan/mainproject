@@ -1,0 +1,42 @@
+.Menu{
+    
+    background-color: darkgray;
+    height:50px;
+}
+.Menu ul li {
+    padding-top:15px;
+     display:inline;
+     margin:0px;
+     
+}
+.Menu ul li a{
+    
+    color:crimson;
+    background-color: gainsboro;
+    text-decoration:none;
+    font-size: 35px;
+   
+}
+.image img{
+    height:600px;
+    width:100%;
+}
+.Cont1{
+    background-color: hotpink;
+    height:300px;
+    width:32%;
+    float:left;
+    margin-right:25px;
+}
+.Cont2{
+    background-color: rgb(117, 86, 202);
+    height:300px;
+    width:32%;
+    float:left;
+}
+.Cont3{
+    background-color: hotpink;
+    height:300px;
+    width:32%;
+    float:right;
+}
